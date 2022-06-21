@@ -55,14 +55,14 @@
 <img align="center" width="10000" height="500" src="https://activity-graph.herokuapp.com/graph?username=Mo7ammedSharak&theme=github" >
 </p>   
 
-
+<!-- 
 
 <h4>Watch me Social 🤔.</h4>
 <div align="center">
 <a href="https://twitter.com/Mo7ammedSharak">
-<img width="550" src="https://github-readme-twitter.gazf.vercel.app/api?id=Mo7ammedSharak&layout=wide&show_reply=off&show_retweet=on" />
+<img width="550" src="https://github-readme-twitter.gazf.vercel.app/api?id=Mo7ammedSharaki&layout=wide&show_reply=off&show_retweet=on" />
 </a>
 </p>
-</div>
+</div> -->
 
 <h1 align="center">thanks to visit my Github profile ⠕</p>
