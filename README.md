@@ -4,7 +4,7 @@
 <div align="center">   
 
 [![Repos Badge](https://badges.pufler.dev/repos/Mo7ammedSharak)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=Mo7ammedSharak&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahhemdan" />
+<img src="https://komarev.com/ghpvc/?username=Mo7ammedSharaki&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed sharaki" />
 
 </div>
 <div align="center">
@@ -14,7 +14,7 @@
 </a>
 
   
-  <a href="https://mo7ammedsharak.hashnode.dev/">
+  <a href="https://mo7ammedsharaki.hashnode.dev/">
   <img alt="🇬OoGlE's hashnode" width="35px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" draggable="false" />
 </a>
   
