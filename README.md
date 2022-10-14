@@ -10,10 +10,12 @@
   <img alt="mohammed sharaki's hashnode" width="35px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" draggable="false" />
 </a>
 
-<a herf="https://t.me/Mo7ammedsharaki">
+<a href="https://t.me/Mo7ammedsharaki">
 <img alt="mohammed sharaki telegram" width="35px" src="https://user-images.githubusercontent.com/67878024/195790524-d0aa6c27-c945-4340-9e12-434929e1dc81.png" />
-<a herf="https://twitter.com/Mo7ammedsharaki">
+</a>
+<a href="https://twitter.com/Mo7ammedsharaki">
 <img alt="mohammed sharaki twitter" width="35px" src="https://user-images.githubusercontent.com/67878024/195790981-e7d20738-eacc-43e2-86a5-b42bc0c09f58.png" />
+  </a>
   </div>
   <div>
 <img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/mo7ammedsharakII/mo7ammedsharakII/output/github-contribution-grid-snake.svg" />
