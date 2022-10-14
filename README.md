@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm mohammed (🇬OoGlE)</h1>
-<h3 align="center">A 16 years old  from Egypt</h3>
+<h1 align="center">Hi 👋, I'm mohammed know as Google</h1>
+<h3 align="center">A 17 years old  from Egypt</h3>
 <!-- <img alt="about me" src="https://user-images.githubusercontent.com/67878024/147480040-14819974-3694-4a5f-8233-048ac1e011ac.png"> -->
 <div align="center">   
 
-[![Repos Badge](https://badges.pufler.dev/repos/Mo7ammedSharak)](https://badges.pufler.dev)
+<!-- <p align="right">Watch my contribution graph get eaten by the Snake 🐍</p> -->
+<img align="right" width="500px" height="250px" src="https://raw.githubusercontent.com/mo7ammedsharakII/mo7ammedsharakII/output/github-contribution-grid-snake.svg" />
+
+[![Repos Badge](https://badges.pufler.dev/repos/Mo7ammedSharakII)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=Mo7ammedSharaki&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed sharaki" />
 
 </div>
