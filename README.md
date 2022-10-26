@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mohammed know as Google</h1>
+<h1 align="center">Hi 👋, I'm Mohammed know as Google</h1>
 <h3 align="center">A 17 years old  from Egypt</h3>
 <!-- <img alt="about me" src="https://user-images.githubusercontent.com/67878024/147480040-14819974-3694-4a5f-8233-048ac1e011ac.png"> -->
 <div align="center">   
@@ -47,4 +47,4 @@
 
 <br>
 
-<h1 align="center">thanks to visit my Github profile ⠕</p>
+<h1 align="center">Thanks to visit my Github profile ⠕</p>
