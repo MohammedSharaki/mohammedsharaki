@@ -41,10 +41,10 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" width="10000" height="500" src="https://activity-graph.herokuapp.com/graph?username=mohammedsharaki&theme=github" >
 </p>   
 
-<br>
+<br> -->
 
 <h1 align="center">thanks to visit my Github profile ⠕</p>
