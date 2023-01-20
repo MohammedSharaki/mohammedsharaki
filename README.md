@@ -18,7 +18,7 @@
   </a>
   </div>
   <div>
-<img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/mo7ammedsharakII/mo7ammedsharakII/output/github-contribution-grid-snake.svg" />
+<img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/mohammedsharaki/mohammedsharaki/output/github-contribution-grid-snake.svg" />
 <!-- <ul>
 <li align="left"> now i learn data science
 <li align="left">writing technical on hashnode, check link above
@@ -27,22 +27,22 @@
 </div>
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mo7ammedSharakII&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Mo7ammedSharak" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedsharaki&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Mo7ammedSharak" /></a> </p>
 
 <div height="170" align="center">
-<img height="170"  src="https://github-readme-stats.vercel.app/api?username=Mo7ammedSharakII&count_private=true&include_all_commits=true&theme=onedark" alt="Mo7ammedSharak" />
-<img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7ammedSharakII&layout=compact&theme=onedark&langs_count=15" />
+<img height="170"  src="https://github-readme-stats.vercel.app/api?username=mohammedsharaki&count_private=true&include_all_commits=true&theme=onedark" alt="Mo7ammedSharak" />
+<img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsharaki&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
 <br/>
 <p align="center"> 
-<img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7ammedSharakII&theme=dark" alt="mohammed sharaki" /> 
+<img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsharaki&theme=dark" alt="mohammed sharaki" /> 
 
 </p>
 
 
 <p align="center">
-<img align="center" width="10000" height="500" src="https://activity-graph.herokuapp.com/graph?username=Mo7ammedSharakII&theme=github" >
+<img align="center" width="10000" height="500" src="https://activity-graph.herokuapp.com/graph?username=mohammedsharaki&theme=github" >
 </p>   
 
 <br>
