@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm mohammed know as Google</h1>
-<h3 align="center">A 17 years old  from Egypt</h3>
+<h1 align="center">Hi 👋, I'm mohammed</h1>
+<h3 align="center">A 18 years old  from Egypt</h3>
 <!-- <img alt="about me" src="https://user-images.githubusercontent.com/67878024/147480040-14819974-3694-4a5f-8233-048ac1e011ac.png"> -->
 <div align="center">   
 <div align="center">
-<a href="https://quora.com/profile/Mohammed-Sharaki">
+<a href="https://ar.quora.com/profile/Mohammed-Sharaki">
 <img alt="followers" title="Follow me on quora" src="https://user-images.githubusercontent.com/67878024/139280354-284c728c-4ad8-45a8-8e86-6878ad63ebd1.png">
 </a>
   <a href="https://mo7ammedsharaki.hashnode.dev/">
   <img alt="mohammed sharaki's hashnode" width="35px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" draggable="false" />
 </a>
 
-<a href="https://t.me/Mo7ammedsharaki">
+<a href="https://t.me/Mohammedsharaki">
 <img alt="mohammed sharaki telegram" width="35px" src="https://user-images.githubusercontent.com/67878024/195790524-d0aa6c27-c945-4340-9e12-434929e1dc81.png" />
 </a>
 <a href="https://twitter.com/Mo7ammedsharaki">
